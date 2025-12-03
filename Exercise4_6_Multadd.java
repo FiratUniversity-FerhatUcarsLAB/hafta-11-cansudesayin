@@ -32,3 +32,14 @@ public class Exercise4_6_Multadd {
         System.out.println("expSum(2.0) = " + expr3);
     }
 }
+
+/* programın çıktıları:
+    multadd(1.0, 2.0, 3.0) = 5.0
+    sin(pi/4) + cos(pi/4)/2 = 1.0606601717798212
+    log(10) + log(20) = 5.298317366548036
+    expSum(2.0) = 1.2013439082710945
+*/
+
+
+
+    
