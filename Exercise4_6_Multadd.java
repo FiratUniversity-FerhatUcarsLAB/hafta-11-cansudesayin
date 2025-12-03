@@ -2,13 +2,13 @@ public class Exercise4_6_Multadd {
 
     public static double multadd(double a, double b, double c) {
         // TODO
+        // multadd: a * b + c
         return a * b + c;
     }
 
     public static double expSum(double x) {
         // TODO
         // expSum: x * e^(-x) + sqrt(1 - e^(-x))
-        
         double expTerm = Math.exp(-x);                 // e^(-x)
         return x * expTerm + Math.sqrt(1 - expTerm);   // x·e^-x + √(1 - e^-x)
     }
