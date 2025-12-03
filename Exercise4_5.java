@@ -25,3 +25,11 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+
+/* programın ürettiği çıktı:
+just for
+!
+It's breakfast 
+any not more 
+
+*/
