@@ -21,3 +21,15 @@ public class Exercise4_2 {
         }
     }
 }
+
+
+/*
+ *programın çıktısı
+ *ik
+ *rattle
+ *ping zoop
+ *boo-wa-ha-ha
+ *
+ *baffle methoduna ilk gönderilen blimp parametresinin değeri: "rattle"
+ */
+ 
